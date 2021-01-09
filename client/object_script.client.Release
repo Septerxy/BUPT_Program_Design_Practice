@@ -1,0 +1,11 @@
+release/functions.o
+release/game.o
+release/login.o
+release/main.o
+release/register.o
+release/widget.o
+release/qrc_res.o
+release/moc_game.o
+release/moc_login.o
+release/moc_register.o
+release/moc_widget.o
